@@ -1,6 +1,7 @@
 # Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
-# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# Logcode : https://osp4diss.vlsm.org/ETC/logCodes.txt
 
-ZCZC WEEK0 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 60 L09 Weekly Assignments
