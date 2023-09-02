@@ -5,3 +5,6 @@
 
 ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W00 60 L09 Weekly Assignments
+ZCZC W00 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 110 L05 Quiz related Studying
