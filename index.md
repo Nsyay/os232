@@ -1,3 +1,3 @@
 ---
-permalink: TXT/mylog.txt, GitHub, LINKS/
+permalink: TXT/mylog.txt
 ---
