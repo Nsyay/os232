@@ -51,3 +51,16 @@ ZCZC W03 20 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W03 10 L45 TXT/SHA256SUM related
 ZCZC W03 10 L41 TXT/mylog.txt related.
 ZCZC W03 10 L03 GitHub and git related, including commit, push, pull
+ZCZC W04 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 50 L21 Trying something
+ZCZC W04 30 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W04 20 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W04 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 10 L61 Backup Virtual Box
+ZCZC W04 60 L22 Linux CLI including tar, etc.
+ZCZC W04 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W04 20 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W04 10 L45 TXT/SHA256SUM related
+ZCZC W04 10 L41 TXT/mylog.txt related
+ZCZC W04 30 L64 Helping a friend (OS related problem)
+ZCZC W04 10 L03 GitHub and git related, including commit, push, pull
