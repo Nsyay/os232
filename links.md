@@ -14,5 +14,7 @@ Encountered some problem in filesystem, i use this link to solve the problem
 some pdf about The Linux Programming Interface book to help me understand TLPI
 * [Basic C language] (https://www.w3schools.com/c/c_intro.php) ---
 Basic C language for me to learn how to make program with C language
+* [Logical and Physical Address in Operating System] (https://workat.tech/core-cs/tutorial/logical-and-physical-address-os-8abv46w3k0bu#:~:text=Differences%20between%20Logical%20Address%20and,actual%20address%20of%20the%20memory.) ---
+Helps me to understand more about physical and logical address
 <br>
 <hr>
