@@ -77,3 +77,19 @@ ZCZC W05 20 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W05 10 L45 TXT/SHA256SUM related
 ZCZC W05 10 L41 TXT/mylog.txt related
 ZCZC W05 10 L03 GitHub and git related, including commit, push, pull
+<<<<<<< HEAD
+=======
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 10 L05 Quiz related including studying
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
+ZCZC W06 20 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W06 60 L05 Quiz related including studying
+ZCZC W06 10 L61 Backup Virtual Box
+ZCZC W06 30 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 60 L22 Linux CLI including tar, etc.
+ZCZC W06 10 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 20 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W06 10 L45 TXT/SHA256SUM related
+ZCZC W06 10 L41 TXT/mylog.txt related
+ZCZC W06 10 L03 GitHub and git related, including commit, push, pull
+>>>>>>> 074bced (W06 done)

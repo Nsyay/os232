@@ -16,5 +16,15 @@ some pdf about The Linux Programming Interface book to help me understand TLPI
 Basic C language for me to learn how to make program with C language
 * [Logical and Physical Address in Operating System] (https://workat.tech/core-cs/tutorial/logical-and-physical-address-os-8abv46w3k0bu#:~:text=Differences%20between%20Logical%20Address%20and,actual%20address%20of%20the%20memory.) ---
 Helps me to understand more about physical and logical address
+<<<<<<< HEAD
+=======
+### week 06
+* [gpg - Unix, Linux Command](https://www.tutorialspoint.com/unix_commands/gpg.htm) ---
+Commands for encryptng, decrypting, and signing
+* [Fork() in C Programming Language](https://www.section.io/engineering-education/fork-in-c-programming-language/) ---
+Explanation about fork. It helps me to learn how fork() work in C language
+* [Fork, Wait and Exec Simulator](https://lasdpc.icmc.usp.br/~ssc640/pos/fork-wait-exec-simulator/) ---
+Simulation fork, wait, and exec
+>>>>>>> 074bced (W06 done)
 <br>
 <hr>
