@@ -25,6 +25,9 @@ Commands for encryptng, decrypting, and signing
 Explanation about fork. It helps me to learn how fork() work in C language
 * [Fork, Wait and Exec Simulator](https://lasdpc.icmc.usp.br/~ssc640/pos/fork-wait-exec-simulator/) ---
 Simulation fork, wait, and exec
->>>>>>> 074bced (W06 done)
+
+### week 07
+* [Deadlock](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html) --- A course note about deadlock. It helps me understand more about deadlock
+* [Process synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- Introduction of process synchronization. It helps me understand more about process synchronization
 <br>
 <hr>
