@@ -30,4 +30,7 @@ Simulation fork, wait, and exec
 * [Deadlock](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/7_Deadlocks.html) --- A course note about deadlock. It helps me understand more about deadlock
 * [Process synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) --- Introduction of process synchronization. It helps me understand more about process synchronization
 <br>
+
+### week 08
+* [Linux from scratch](https://www.linuxfromscratch.org/lfs/) --- a guide book of instruction for building customized linux system
 <hr>
