@@ -33,4 +33,7 @@ Simulation fork, wait, and exec
 
 ### week 08
 * [Linux from scratch](https://www.linuxfromscratch.org/lfs/) --- a guide book of instruction for building customized linux system
+
+### week 09
+* [Linux from scratch forum](https://www.linuxquestions.org/questions/linux-from-scratch-13/) --- a forum help me to solve if i encounter some problem
 <hr>
